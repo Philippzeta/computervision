@@ -1,5 +1,7 @@
-通过单一视图，消失点，视角线，进行图像分割的3d重建。
-感谢团队成员Luca Martin, Hassan R. Khan, Fatma Tej, Yi Yue, Philipp Wang, Ali Rabeh
+3D reconstruction for image segmentation by single view, vanishing point, and line of view.
+Thanks to the team members 
+Luca Martin, Hassan R. Khan, Fatma Tej, Yi Yue, Philipp Wang, Ali Rabeh
+
 Required Toolbox: 
 Image Processing Toolbox
 
